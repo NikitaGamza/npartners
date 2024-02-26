@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "amount": "50 FS",
+        "code": "RODEO1"
+    },
+    {
+        "id": 2,
+        "amount": "15 EUR",
+        "code": "RODEO2"
+    },
+    {
+        "id": 3,
+        "amount": "100 %, bis zu 1000 EUR\n+ 10 % Cashback, bis zu 1000 EUR",
+        "code": "RODEO2"
+    }
+]

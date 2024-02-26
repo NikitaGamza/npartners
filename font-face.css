@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'DelaGothic';
+  src: url("./public/fonts/DelaGothicOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("./public/fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url("./public/fonts/Rubik/Rubik-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'RubikBold';
+  src: url("./public/fonts/Rubik/Rubik-Bold.ttf");
+}
+/*# sourceMappingURL=font-face.css.map */

@@ -1,0 +1,35 @@
+@import './colors.scss';
+@mixin link {
+  background-color: $burgundy;
+  border-radius: 12px;
+  text-decoration: none;
+  padding-bottom: 1px;
+  height: 56px;
+  display: block;
+  width: 243px;
+  @media screen and (max-width: 768px) {
+    width: 202px;
+    padding-bottom: 0;
+    height: 52px;
+  }
+}
+@mixin link__in {
+  background: linear-gradient(180deg, #ff6e40 0%, #e02937 100%);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: center;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 12px;
+  @media screen and (max-width: 768px) {
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0em;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 100%;
+  }
+}

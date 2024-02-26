@@ -1,0 +1,20 @@
+@font-face {
+  // This is parsed as a normal function call that takes a quoted string.
+  font-family: 'DelaGothic';
+  src: url('./public/fonts/DelaGothicOne-Regular.ttf');
+}
+@font-face {
+  // This is parsed as a normal function call that takes a quoted string.
+  font-family: 'Roboto';
+  src: url('./public/fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face {
+  // This is parsed as a normal function call that takes a quoted string.
+  font-family: 'Rubik';
+  src: url('./public/fonts/Rubik/Rubik-Regular.ttf');
+}
+@font-face {
+  // This is parsed as a normal function call that takes a quoted string.
+  font-family: 'RubikBold';
+  src: url('./public/fonts/Rubik/Rubik-Bold.ttf');
+}
